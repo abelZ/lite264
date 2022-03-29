@@ -1,0 +1,16 @@
+Language: Cpp
+BasedOnStyle: Google
+ColumnLimit: 100
+IndentWidth: 4
+AccessModifierOffset: -3
+DerivePointerAlignment: true
+
+PointerAlignment: Left
+
+SortIncludes: true
+IncludeBlocks: Preserve
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortIfStatementsOnASingleLine: Never
+BraceWrapping:
+  AfterEnum: false
+BreakBeforeBraces: Custom
